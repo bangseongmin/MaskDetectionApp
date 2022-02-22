@@ -1,0 +1,26 @@
+<annotation>
+	<folder>No-Mask-samples</folder>
+	<filename>20.jpg</filename>
+	<path>E:\Fuck\RealTimeObjectDetection-main\RealTimeObjectDetection-main\Tensorflow\workspace\images\allimages\No-Mask-samples\20.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>224</width>
+		<height>224</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>NoMask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>60</xmin>
+			<ymin>125</ymin>
+			<xmax>174</xmax>
+			<ymax>185</ymax>
+		</bndbox>
+	</object>
+</annotation>
